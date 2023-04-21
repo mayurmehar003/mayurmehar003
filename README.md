@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mayur Mehar</h1>
+![logo](https://github.com/mayurmehar003/mayurmehar03/blob/dba0588c46e8352b663d80cff66a2756d6444f1d/lin.jfif)
+
+<h1 align="center">Hiii 👋, I'm Mayur Mehar</h1>
 <h3 align="center">A passionate frontend develorper from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e47po4he80kil9xeid1clyggofyoe4n3nta1pt2zjha&rid=giphy.gif&ct=g.gif">
