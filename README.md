@@ -1,7 +1,7 @@
 ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)
 
 <h1 align="center">Hiii 👋, I'm Mayur Mehar</h1>
-<h3 align="center">A passionate frontend develorper from India</h3>
+<h3 align="center">A passionate  develorper from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e47po4he80kil9xeid1clyggofyoe4n3nta1pt2zjha&rid=giphy.gif&ct=g.gif">
 
