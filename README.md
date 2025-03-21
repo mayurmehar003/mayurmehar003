@@ -18,32 +18,63 @@ I am a **Professional Oracle APEX Developer** with a strong passion for building
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/mayur-mehar-175ab0167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-mehar-175ab0167" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayur-mehar-175ab0167" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayur-mehar-175ab0167" height="30" /></a>
+<a href="https://github.com/mayurmehar003" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="mayurmehar003" height="30" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://apex.oracle.com" target="_blank" rel="noreferrer"> <img src="https://apex.oracle.com/pls/apex/r/apex_pm/files/static/v211/img/favicon.png" alt="oracle-apex" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/obic-database.svg" alt="oracle-database" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.plsql.org" target="_blank" rel="noreferrer"> <img src="https://www.plsql.org/images/plsql-logo.png" alt="plsql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <!-- Oracle APEX -->
+  <a href="https://apex.oracle.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle-apex" />
+  </a>
+  <!-- Oracle Database -->
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle-database" />
+  </a>
+  <!-- PL/SQL -->
+  <a href="https://www.plsql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="plsql" />
+  </a>
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurmehar003&show_icons=true&locale=en&layout=compact" alt="mayurmehar003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurmehar003&" alt="mayurmehar003" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurmehar003&show_icons=true&theme=radical" alt="mayurmehar003" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurmehar003&theme=radical" alt="mayurmehar003" />
+</p>
 
 ---
 
@@ -58,3 +89,10 @@ I am a **Professional Oracle APEX Developer** with a strong passion for building
 
 ### 🚀 Let's Build Something Amazing!
 If you're looking for a dedicated Oracle APEX developer to bring your ideas to life, feel free to reach out. Let's collaborate and create something extraordinary! 😊
+
+---
+
+### 🎥 Watch My Coding Journey:
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="coding-gif" width="300" />
+</p>
