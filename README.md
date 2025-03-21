@@ -3,7 +3,7 @@
 <h1 align="center">Hiii 👋, I'm Mayur Mehar</h1>
 <h3 align="center">A passionate Oracle APEX developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[[https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e47po4he80kil9xeid1clyggofyoe4n3nta1pt2zjha&rid=giphy.gif&ct=g.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761142vr1xmcf6f5f4uiaj8h5xjilpd8hh81ximdplxp&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761142vr1xmcf6f5f4uiaj8h5xjilpd8hh81ximdplxp&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1jdGU3OGZtanJjcTlvZmpyNDRnODdveWlucmdmZHh5NTFlajJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WD01fV9KSg4Vw3DYWc/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurmehar003&label=Profile%20views&color=0e75b6&style=flat" alt="mayurmehar003" /> </p>
